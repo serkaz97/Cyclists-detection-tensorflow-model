@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>COCO_train2014_000000003988.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\test\COCO_train2014_000000003988.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>140</ymin>
+			<xmax>354</xmax>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>To tag</folder>
+	<filename>image3212.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\To tag\image3212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>331</ymin>
+			<xmax>396</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

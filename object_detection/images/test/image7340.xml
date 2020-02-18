@@ -1,0 +1,26 @@
+<annotation>
+	<folder>To tag</folder>
+	<filename>image7340.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\To tag\image7340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>318</ymin>
+			<xmax>643</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image5419.jpg</filename>
+	<path>D:\tensorflow1\models\research\object_detection\images\train\image5419.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>138</ymin>
+			<xmax>322</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

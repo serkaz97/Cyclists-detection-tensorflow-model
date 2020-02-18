@@ -1,0 +1,38 @@
+<annotation>
+	<folder>To tag</folder>
+	<filename>image37544.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\To tag\image37544.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_side</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>475</ymin>
+			<xmax>550</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cyclist_side</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>990</xmin>
+			<ymin>367</ymin>
+			<xmax>1126</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

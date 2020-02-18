@@ -1,0 +1,50 @@
+<annotation>
+	<folder>To tag</folder>
+	<filename>image2003.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\To tag\image2003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>688</xmin>
+			<ymin>425</ymin>
+			<xmax>766</xmax>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cyclist_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>407</ymin>
+			<xmax>681</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cyclist_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>783</xmin>
+			<ymin>449</ymin>
+			<xmax>850</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>

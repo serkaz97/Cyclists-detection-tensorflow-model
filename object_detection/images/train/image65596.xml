@@ -1,0 +1,38 @@
+<annotation>
+	<folder>To tag</folder>
+	<filename>image65596.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\To tag\image65596.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>245</ymin>
+			<xmax>833</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cyclist_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>244</ymin>
+			<xmax>591</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

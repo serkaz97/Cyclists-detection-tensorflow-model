@@ -1,0 +1,26 @@
+<annotation>
+	<folder>To tag</folder>
+	<filename>image57058.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\To tag\image57058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_side</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>357</ymin>
+			<xmax>526</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

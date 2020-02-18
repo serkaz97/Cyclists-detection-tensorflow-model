@@ -1,0 +1,38 @@
+<annotation>
+	<folder>To tag</folder>
+	<filename>image2168.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\To tag\image2168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>239</ymin>
+			<xmax>698</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cyclist_front</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>249</ymin>
+			<xmax>568</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

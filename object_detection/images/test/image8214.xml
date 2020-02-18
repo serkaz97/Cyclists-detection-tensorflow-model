@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vid1</folder>
+	<filename>image8214.jpg</filename>
+	<path>D:\Praca inżynierska\Video2Img\vid1\image8214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cyclist_back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>89</ymin>
+			<xmax>424</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

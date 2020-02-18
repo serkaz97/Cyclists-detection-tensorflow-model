@@ -1,0 +1,14 @@
+item{
+	id: 1
+	name: 'cyclist_back'
+}
+
+item{
+	id: 2
+	name: 'cyclist_front'
+}
+
+item{
+	id: 3
+	name: 'cyclist_side'
+}

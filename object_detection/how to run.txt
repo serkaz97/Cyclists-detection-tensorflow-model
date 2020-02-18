@@ -1,0 +1,77 @@
+To run the cyclists detector:
+
+Install Anaconda:
+https://www.anaconda.com/distribution/
+
+After Installation:
+* run Anaconda Prompt
+* Create virtual environment:
+  conda create --name myenv (myenv - name of envronment)
+
+* aktywować środowisko komendą
+  activate myenv
+
+* install python 3.6
+  conda install python=3.6
+
+*install opencv
+ conda install opencv
+
+*install tensorflow
+ conda install -c anaconda tensorflow-gpu=1.15.0
+
+*install matplotlib 
+ conda install matplotlib
+
+*install pillow
+ conda install pillow
+
+*run python script:
+
+ - python Object_detection_folder.py - script scans images in folder "TestImages" 
+ - python Object_detection_video.py - script scans video - vid240.mp4
+
+to interrupt push 'q' button. 
+
+
+
+
+
+
+Aby uruchomić detektor rowerzystów należy:
+
+Zainstalować środowisko Anaconda:
+https://www.anaconda.com/distribution/
+
+Po zainstalowaniu:
+* Uruchomić konsolę Anaconda Prompt
+* Utworzyć wirtualne środowisko za pomocą komendy:
+  conda create --name myenv (myenv można zastąpić dowolną nazwą)
+
+* aktywować środowisko komendą
+  activate myenv
+* zainstalować pythona 3.6
+  conda install python=3.6
+
+*zainstalować opencv
+ conda install opencv
+
+*zainstalować bibliotekę tensorflow
+ conda install -c anaconda tensorflow-gpu=1.15.0
+
+*zainstalować matplotlib 
+ conda install matplotlib
+
+*zainstalować pillow
+ conda install pillow
+
+*uruchommić plik:
+
+ - python Object_detection_folder.py - Skrypt analizuje zdjęcia w folderze TestImages, w celu przejścia do kolejnego zdjęcia, należy wcisnąć dowolny 
+   klawisz.
+ - python Object_detection_video.py - Skrypt analizuje plik vid240.mp4 - skrypt w oknie wyświetla wideo, w konsoli wyświetlana jest ilość klatek 
+   na sekundę, oraz emitowany jest dźwięk, gdy jest wykryty rowerzysta.
+
+aby przerwać działanie programów należy wcisnać klawisz 'q', 
+
+
